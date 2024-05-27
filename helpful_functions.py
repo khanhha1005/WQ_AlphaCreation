@@ -117,7 +117,7 @@ def set_alpha_properties(
     color: str = None,
     selection_desc: str = "None",
     combo_desc: str = "None",
-    tags: str = ["ace_tag"],
+    tags: str = ["news_tag"],
 ):
     """
     Function changes alpha's description parameters
